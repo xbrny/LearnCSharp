@@ -1,0 +1,15 @@
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\bin\Debug\net7.0\BasicMathGame.exe
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\bin\Debug\net7.0\BasicMathGame.deps.json
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\bin\Debug\net7.0\BasicMathGame.runtimeconfig.json
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\bin\Debug\net7.0\BasicMathGame.dll
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\bin\Debug\net7.0\BasicMathGame.pdb
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.csproj.AssemblyReference.cache
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.AssemblyInfoInputs.cache
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.AssemblyInfo.cs
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.dll
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\refint\BasicMathGame.dll
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.pdb
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\BasicMathGame.genruntimeconfig.cache
+C:\Users\user\Backend\LearnCSharp\BasicMathGame\obj\Debug\net7.0\ref\BasicMathGame.dll
