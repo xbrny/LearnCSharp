@@ -1,3 +1,3 @@
-# Collections of projects for C# learning journey
+# Collections of projects for my C# learning journey
 
 ## Projects
