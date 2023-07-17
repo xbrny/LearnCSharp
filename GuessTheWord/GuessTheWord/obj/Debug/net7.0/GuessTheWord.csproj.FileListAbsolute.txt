@@ -1,0 +1,15 @@
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\bin\Debug\net7.0\GuessTheWord.exe
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\bin\Debug\net7.0\GuessTheWord.deps.json
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\bin\Debug\net7.0\GuessTheWord.runtimeconfig.json
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\bin\Debug\net7.0\GuessTheWord.dll
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\bin\Debug\net7.0\GuessTheWord.pdb
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.csproj.AssemblyReference.cache
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.AssemblyInfoInputs.cache
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.AssemblyInfo.cs
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.csproj.CoreCompileInputs.cache
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.dll
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\refint\GuessTheWord.dll
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.pdb
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\GuessTheWord.genruntimeconfig.cache
+C:\Users\user\Backend\LearnCSharp\GuessTheWord\GuessTheWord\obj\Debug\net7.0\ref\GuessTheWord.dll
