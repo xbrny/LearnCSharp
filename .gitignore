@@ -1,0 +1,14 @@
+# Mac desktop service store files
+.DS_Store
+
+# Visual Studio 2014 CTP
+**/*.sln.ide
+
+# Visual Studio temp something
+.vs/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
